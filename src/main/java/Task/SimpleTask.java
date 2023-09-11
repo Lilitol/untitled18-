@@ -8,7 +8,8 @@ public class SimpleTask extends Task {
         this.title = title;
     }
 
-    public void getTitle() {
+    public String getTitle() {
+        return null;
     }
 
     @Override
